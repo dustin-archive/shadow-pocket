@@ -62,6 +62,6 @@ export default props => {
   })
 
   return (
-    ref.vnode = <div key='Counter'></div>
+    ref.vnode = <div key='counter'></div>
   )
 }
