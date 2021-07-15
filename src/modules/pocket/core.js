@@ -68,8 +68,6 @@ const manager = (state, render) => {
     }
   }
 
-  // render(state, dispatch)
-
   return {
     getState: () => state,
     dispatch
@@ -89,7 +87,7 @@ export default (init, patch) => {
   // temporary?
   // how was i bootstrapping before?
   // i actually don't remember
-  dispatch(state => state)
+  dispatch(() => {})
 
   return { getState, dispatch }
 }
