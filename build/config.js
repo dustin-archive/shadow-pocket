@@ -8,17 +8,24 @@ const common = {
   bundle: true,
   nodePaths: ['src', 'src/modules'],
   write: false,
+
   // - - - JSX - - -
   inject: ['./src/modules/pocket/shim.js'],
   jsxFactory: 'jsx',
   loader: {
     '.js': 'jsx'
   },
+
   // - - - ENV - - -
   define: {
     'process.env.DEV': development,
     'process.env.PROD': production,
-    'process.env.YEAR': year
+    'process.env.YEAR': year,
+
+    // Pocket Feature Flags
+    'FF_ROUTE_EVENTS': false,
+    'FF_ROUTE_MIDDLEWARE': false,
+    'FF_ROUTE_REWRITES': false
   }
 }
 
