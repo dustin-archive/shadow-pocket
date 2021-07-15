@@ -1,6 +1,6 @@
 
 /**
- * Debounce helper using `window.requestAnimationFrame`
+ * Debounce helper for renders
  * @function enqueue
  */
 
@@ -31,8 +31,10 @@ const collect = (state, render) => {
   const schedule = enqueue(() => {
     Object.assign.apply(Object, batch)
     batch = [state]
-    render(state)
+    render()
   })
+
+  schedule()
 
   return result => {
     batch.push(result)
@@ -41,15 +43,15 @@ const collect = (state, render) => {
 }
 
 /**
- * Minimalist state manager using actions and effects
+ * Minimalist state manager with actions and effects
  * @function manager
  */
 
 const manager = (state, render) => {
   const push = collect(state, render)
 
-  const dispatch = (action, ...data) => {
-    const result = action(state, ...data)
+  const dispatch = (action, data) => {
+    const result = action(state, data)
 
     console.log(
       'Dispatch >>',
@@ -76,18 +78,13 @@ const manager = (state, render) => {
 
 /**
  * Initialize app instance
- * @module pocket
+ * @module core
  */
 
-export default (init, patch) => {
-  const { getState, dispatch } = manager(init.state, state => {
-    patch(init.view(state, dispatch))
+export default ({ state, view }, patch) => {
+  const target = manager(state, () => {
+    patch(view(state, target.dispatch))
   })
 
-  // temporary?
-  // how was i bootstrapping before?
-  // i actually don't remember
-  dispatch(() => {})
-
-  return { getState, dispatch }
+  return target
 }
