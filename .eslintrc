@@ -25,6 +25,8 @@
     "SharedArrayBuffer": "readonly",
     "PROD": "readonly",
     "STATIC": "readonly",
-    "FB": "readonly"
+    "FF_ROUTE_EVENTS": "readonly",
+    "FF_ROUTE_MIDDLEWARE": "readonly",
+    "FF_ROUTE_REWRITES": "readonly"
   }
 }
