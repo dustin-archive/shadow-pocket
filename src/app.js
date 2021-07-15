@@ -24,17 +24,8 @@ export const { getState, dispatch } = app({
     inspector: inspector.state,
     panel: panel.state
   },
-  middleware: {
-    common: () => {
-      return {
-        onRoute: () => {},
-        onBeforeLeave: () => {}
-      }
-    }
-  },
   pages: {
     '/': Home,
     '/missing': Missing
-  },
-  rewrites: []
+  }
 })
