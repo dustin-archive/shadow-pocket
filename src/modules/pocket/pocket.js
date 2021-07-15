@@ -97,7 +97,7 @@ const routeEvents = dispatch => {
  * @module pocket
  */
 
-export default ({ state, pages, middleware, rewrites }, patch) => {
+export default ({ state, pages, rewrites, middleware }, patch) => {
   let route
 
   state.router = {
@@ -106,10 +106,8 @@ export default ({ state, pages, middleware, rewrites }, patch) => {
     query: {}
   }
 
-  const target = core({
-    state,
-    view: (state, dispatch) => route.view(state, dispatch)
-  }, patch)
+  const view = (state, dispatch) => route.view(state, dispatch)
+  const target = core({ state, view }, patch)
 
   const applyMiddleware = /* @__PURE__ */ compile(middleware, target.dispatch)
   const applyRouteEvents = /* @__PURE__ */ routeEvents(target.dispatch)
