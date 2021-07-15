@@ -1,8 +1,7 @@
 
-import { dispatch } from 'app'
 import Panel from 'components/Panel'
 
-export default (props, children) => state => {
+export default (props, children) => (state, dispatch) => {
   return (
     <div class='layout-default'>
       <div class='layout-default-content'>
