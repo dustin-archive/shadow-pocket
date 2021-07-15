@@ -1,0 +1,75 @@
+
+$white: #fff;
+$black: #000;
+
+/* Colors */
+$red: lab(50, 63, 23);
+$orange: lab(60, 39, 55);
+$yellow: lab(70, 15, 63);
+$green: lab(60, -32, 0);
+$blue: lab(50, 0, -64);
+$purple: lab(40, 55, -64);
+
+/* Theme */
+$primary: $blue;
+
+/* Desaturated Light */
+$light-600: lab(70, 0, -10);
+$light-500: lab(75, 0, -9);
+$light-400: lab(80, 0, -8);
+$light-300: lab(85, 0, -7);
+$light-200: lab(90, 0, -6);
+$light-100: lab(95, 0, -5);
+
+/* Desaturated Dark */
+$dark-600: lab(5, -15, -20);
+$dark-500: lab(10, -10, -20);
+$dark-400: lab(15, -5, -20);
+$dark-300: lab(20, 0, -20);
+$dark-200: lab(30, 0, -20);
+$dark-100: lab(40, 0, -20);
+
+:root {
+  --white: #{$white};
+  --black: #{$black};
+
+  /* Colors */
+  --red: #{$red};
+  --orange: #{$orange};
+  --yellow: #{$yellow};
+  --green: #{$green};
+  --blue: #{$blue};
+  --purple: #{$purple};
+
+  /* Destructured Colors */
+  --red-rgb: #{destructure-color($red)};
+  --orange-rgb: #{destructure-color($orange)};
+  --yellow-rgb: #{destructure-color($yellow)};
+  --green-rgb: #{destructure-color($green)};
+  --blue-rgb: #{destructure-color($blue)};
+  --purple-rgb: #{destructure-color($purple)};
+
+  /* Theme Colors */
+  --primary: var(--blue);
+
+  /* Desaturated Light */
+  --light-600: #{$light-600};
+  --light-500: #{$light-500};
+  --light-400: #{$light-400};
+  --light-300: #{$light-300};
+  --light-200: #{$light-200};
+  --light-100: #{$light-100};
+
+  /* Desaturated Dark */
+  --dark-600: #{$dark-600};
+  --dark-500: #{$dark-500};
+  --dark-400: #{$dark-400};
+  --dark-300: #{$dark-300};
+  --dark-200: #{$dark-200};
+  --dark-100: #{$dark-100};
+
+  /* Fonts */
+  --font-inter: 'Inter', sans-serif;
+  --font-mont: 'Mont', sans-serif;
+  --font-monospace: 'Source Code Pro', monospace;
+}

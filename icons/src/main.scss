@@ -1,0 +1,5199 @@
+
+@import '../main';
+
+[class^=ic-] {
+  width: 48px;
+  height: 48px;
+}
+
+.ic-2fa {
+  background: url(ic-2fa(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-3d-cube-sphere {
+  background: url(ic-3d-cube-sphere(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-a-b {
+  background: url(ic-a-b(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-access-point-off {
+  background: url(ic-access-point-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-access-point {
+  background: url(ic-access-point(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-accessible {
+  background: url(ic-accessible(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-activity {
+  background: url(ic-activity(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ad-2 {
+  background: url(ic-ad-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ad {
+  background: url(ic-ad(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-adjustments-alt {
+  background: url(ic-adjustments-alt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-adjustments-horizontal {
+  background: url(ic-adjustments-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-adjustments {
+  background: url(ic-adjustments(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-aerial-lift {
+  background: url(ic-aerial-lift(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-affiliate {
+  background: url(ic-affiliate(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-alarm {
+  background: url(ic-alarm(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-alert-circle {
+  background: url(ic-alert-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-alert-octagon {
+  background: url(ic-alert-octagon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-alert-triangle {
+  background: url(ic-alert-triangle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-alien {
+  background: url(ic-alien(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-align-center {
+  background: url(ic-align-center(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-align-justified {
+  background: url(ic-align-justified(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-align-left {
+  background: url(ic-align-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-align-right {
+  background: url(ic-align-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ambulance {
+  background: url(ic-ambulance(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-anchor {
+  background: url(ic-anchor(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-angle {
+  background: url(ic-angle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-antenna-bars-1 {
+  background: url(ic-antenna-bars-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-antenna-bars-2 {
+  background: url(ic-antenna-bars-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-antenna-bars-3 {
+  background: url(ic-antenna-bars-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-antenna-bars-4 {
+  background: url(ic-antenna-bars-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-antenna-bars-5 {
+  background: url(ic-antenna-bars-5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-aperture {
+  background: url(ic-aperture(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-apple {
+  background: url(ic-apple(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-apps {
+  background: url(ic-apps(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-archive {
+  background: url(ic-archive(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-back-up {
+  background: url(ic-arrow-back-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-back {
+  background: url(ic-arrow-back(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-down {
+  background: url(ic-arrow-bar-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-left {
+  background: url(ic-arrow-bar-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-right {
+  background: url(ic-arrow-bar-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-to-down {
+  background: url(ic-arrow-bar-to-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-to-left {
+  background: url(ic-arrow-bar-to-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-to-right {
+  background: url(ic-arrow-bar-to-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-to-up {
+  background: url(ic-arrow-bar-to-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bar-up {
+  background: url(ic-arrow-bar-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-big-down {
+  background: url(ic-arrow-big-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-big-left {
+  background: url(ic-arrow-big-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-big-right {
+  background: url(ic-arrow-big-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-big-top {
+  background: url(ic-arrow-big-top(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bottom-bar {
+  background: url(ic-arrow-bottom-bar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bottom-circle {
+  background: url(ic-arrow-bottom-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bottom-square {
+  background: url(ic-arrow-bottom-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-bottom-tail {
+  background: url(ic-arrow-bottom-tail(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-down-circle {
+  background: url(ic-arrow-down-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-down-left-circle {
+  background: url(ic-arrow-down-left-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-down-left {
+  background: url(ic-arrow-down-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-down-right-circle {
+  background: url(ic-arrow-down-right-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-down-right {
+  background: url(ic-arrow-down-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-down {
+  background: url(ic-arrow-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-forward-up {
+  background: url(ic-arrow-forward-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-forward {
+  background: url(ic-arrow-forward(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-left-bar {
+  background: url(ic-arrow-left-bar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-left-circle {
+  background: url(ic-arrow-left-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-left-square {
+  background: url(ic-arrow-left-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-left-tail {
+  background: url(ic-arrow-left-tail(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-left {
+  background: url(ic-arrow-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-loop-left {
+  background: url(ic-arrow-loop-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-loop-right {
+  background: url(ic-arrow-loop-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-narrow-down {
+  background: url(ic-arrow-narrow-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-narrow-left {
+  background: url(ic-arrow-narrow-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-narrow-right {
+  background: url(ic-arrow-narrow-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-narrow-up {
+  background: url(ic-arrow-narrow-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-ramp-left {
+  background: url(ic-arrow-ramp-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-ramp-right {
+  background: url(ic-arrow-ramp-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-right-bar {
+  background: url(ic-arrow-right-bar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-right-circle {
+  background: url(ic-arrow-right-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-right-square {
+  background: url(ic-arrow-right-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-right-tail {
+  background: url(ic-arrow-right-tail(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-right {
+  background: url(ic-arrow-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-top-bar {
+  background: url(ic-arrow-top-bar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-top-circle {
+  background: url(ic-arrow-top-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-top-square {
+  background: url(ic-arrow-top-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-top-tail {
+  background: url(ic-arrow-top-tail(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-up-circle {
+  background: url(ic-arrow-up-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-up-left-circle {
+  background: url(ic-arrow-up-left-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-up-left {
+  background: url(ic-arrow-up-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-up-right-circle {
+  background: url(ic-arrow-up-right-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-up-right {
+  background: url(ic-arrow-up-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-up {
+  background: url(ic-arrow-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-wave-left-down {
+  background: url(ic-arrow-wave-left-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-wave-left-up {
+  background: url(ic-arrow-wave-left-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-wave-right-down {
+  background: url(ic-arrow-wave-right-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrow-wave-right-up {
+  background: url(ic-arrow-wave-right-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-diagonal-2 {
+  background: url(ic-arrows-diagonal-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-diagonal {
+  background: url(ic-arrows-diagonal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-double-ne-sw {
+  background: url(ic-arrows-double-ne-sw(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-double-nw-se {
+  background: url(ic-arrows-double-nw-se(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-double-se-nw {
+  background: url(ic-arrows-double-se-nw(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-double-sw-ne {
+  background: url(ic-arrows-double-sw-ne(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-down-up {
+  background: url(ic-arrows-down-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-down {
+  background: url(ic-arrows-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-horizontal {
+  background: url(ic-arrows-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-join-2 {
+  background: url(ic-arrows-join-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-join {
+  background: url(ic-arrows-join(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-left-down {
+  background: url(ic-arrows-left-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-left-right {
+  background: url(ic-arrows-left-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-left {
+  background: url(ic-arrows-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-maximize {
+  background: url(ic-arrows-maximize(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-minimize {
+  background: url(ic-arrows-minimize(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-right-down {
+  background: url(ic-arrows-right-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-right-left {
+  background: url(ic-arrows-right-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-right {
+  background: url(ic-arrows-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-sort {
+  background: url(ic-arrows-sort(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-split-2 {
+  background: url(ic-arrows-split-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-split {
+  background: url(ic-arrows-split(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-up-down {
+  background: url(ic-arrows-up-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-up-left {
+  background: url(ic-arrows-up-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-up-right {
+  background: url(ic-arrows-up-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-up {
+  background: url(ic-arrows-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-arrows-vertical {
+  background: url(ic-arrows-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-artboard {
+  background: url(ic-artboard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-aspect-ratio {
+  background: url(ic-aspect-ratio(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-at {
+  background: url(ic-at(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-atom-2 {
+  background: url(ic-atom-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-atom {
+  background: url(ic-atom(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-award {
+  background: url(ic-award(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-backhoe {
+  background: url(ic-backhoe(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-backspace {
+  background: url(ic-backspace(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-american-football {
+  background: url(ic-ball-american-football(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-basketball {
+  background: url(ic-ball-basketball(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-bowling {
+  background: url(ic-ball-bowling(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-football-off {
+  background: url(ic-ball-football-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-football {
+  background: url(ic-ball-football(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-tennis {
+  background: url(ic-ball-tennis(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ball-volleyball {
+  background: url(ic-ball-volleyball(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ban {
+  background: url(ic-ban(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bandage {
+  background: url(ic-bandage(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-barcode {
+  background: url(ic-barcode(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-basket {
+  background: url(ic-basket(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-1 {
+  background: url(ic-battery-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-2 {
+  background: url(ic-battery-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-3 {
+  background: url(ic-battery-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-4 {
+  background: url(ic-battery-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-automotive {
+  background: url(ic-battery-automotive(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-charging {
+  background: url(ic-battery-charging(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery-off {
+  background: url(ic-battery-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-battery {
+  background: url(ic-battery(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bed {
+  background: url(ic-bed(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell-minus {
+  background: url(ic-bell-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell-off {
+  background: url(ic-bell-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell-plus {
+  background: url(ic-bell-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell-ringing-2 {
+  background: url(ic-bell-ringing-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell-ringing {
+  background: url(ic-bell-ringing(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell-x {
+  background: url(ic-bell-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bell {
+  background: url(ic-bell(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bike {
+  background: url(ic-bike(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-binary {
+  background: url(ic-binary(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-biohazard {
+  background: url(ic-biohazard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-blockquote {
+  background: url(ic-blockquote(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bluetooth-connected {
+  background: url(ic-bluetooth-connected(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bluetooth-off {
+  background: url(ic-bluetooth-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bluetooth {
+  background: url(ic-bluetooth(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bold {
+  background: url(ic-bold(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bolt-off {
+  background: url(ic-bolt-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bolt {
+  background: url(ic-bolt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bone {
+  background: url(ic-bone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-book {
+  background: url(ic-book(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bookmark-off {
+  background: url(ic-bookmark-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bookmark {
+  background: url(ic-bookmark(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bookmarks {
+  background: url(ic-bookmarks(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-all {
+  background: url(ic-border-all(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-bottom {
+  background: url(ic-border-bottom(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-horizontal {
+  background: url(ic-border-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-inner {
+  background: url(ic-border-inner(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-left {
+  background: url(ic-border-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-none {
+  background: url(ic-border-none(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-outer {
+  background: url(ic-border-outer(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-radius {
+  background: url(ic-border-radius(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-right {
+  background: url(ic-border-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-style-2 {
+  background: url(ic-border-style-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-style {
+  background: url(ic-border-style(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-top {
+  background: url(ic-border-top(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-border-vertical {
+  background: url(ic-border-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bottle {
+  background: url(ic-bottle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-margin {
+  background: url(ic-box-margin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-model-2 {
+  background: url(ic-box-model-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-model {
+  background: url(ic-box-model(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-0 {
+  background: url(ic-box-multiple-0(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-1 {
+  background: url(ic-box-multiple-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-2 {
+  background: url(ic-box-multiple-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-3 {
+  background: url(ic-box-multiple-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-4 {
+  background: url(ic-box-multiple-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-5 {
+  background: url(ic-box-multiple-5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-6 {
+  background: url(ic-box-multiple-6(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-7 {
+  background: url(ic-box-multiple-7(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-8 {
+  background: url(ic-box-multiple-8(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple-9 {
+  background: url(ic-box-multiple-9(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-multiple {
+  background: url(ic-box-multiple(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box-padding {
+  background: url(ic-box-padding(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-box {
+  background: url(ic-box(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-braces {
+  background: url(ic-braces(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brackets {
+  background: url(ic-brackets(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-airbnb {
+  background: url(ic-brand-airbnb(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-android {
+  background: url(ic-brand-android(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-apple-arcade {
+  background: url(ic-brand-apple-arcade(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-apple {
+  background: url(ic-brand-apple(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-appstore {
+  background: url(ic-brand-appstore(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-asana {
+  background: url(ic-brand-asana(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-behance {
+  background: url(ic-brand-behance(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-bing {
+  background: url(ic-brand-bing(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-bitbucket {
+  background: url(ic-brand-bitbucket(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-booking {
+  background: url(ic-brand-booking(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-chrome {
+  background: url(ic-brand-chrome(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-codepen {
+  background: url(ic-brand-codepen(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-codesandbox {
+  background: url(ic-brand-codesandbox(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-css3 {
+  background: url(ic-brand-css3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-deviantart {
+  background: url(ic-brand-deviantart(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-discord {
+  background: url(ic-brand-discord(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-disqus {
+  background: url(ic-brand-disqus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-docker {
+  background: url(ic-brand-docker(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-dribbble {
+  background: url(ic-brand-dribbble(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-edge {
+  background: url(ic-brand-edge(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-facebook {
+  background: url(ic-brand-facebook(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-figma {
+  background: url(ic-brand-figma(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-firefox {
+  background: url(ic-brand-firefox(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-flickr {
+  background: url(ic-brand-flickr(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-foursquare {
+  background: url(ic-brand-foursquare(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-framer {
+  background: url(ic-brand-framer(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-github {
+  background: url(ic-brand-github(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-gitlab {
+  background: url(ic-brand-gitlab(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-google-analytics {
+  background: url(ic-brand-google-analytics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-google-drive {
+  background: url(ic-brand-google-drive(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-google-play {
+  background: url(ic-brand-google-play(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-google {
+  background: url(ic-brand-google(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-gravatar {
+  background: url(ic-brand-gravatar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-hipchat {
+  background: url(ic-brand-hipchat(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-html5 {
+  background: url(ic-brand-html5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-instagram {
+  background: url(ic-brand-instagram(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-javascript {
+  background: url(ic-brand-javascript(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-kickstarter {
+  background: url(ic-brand-kickstarter(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-kotlin {
+  background: url(ic-brand-kotlin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-linkedin {
+  background: url(ic-brand-linkedin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-medium {
+  background: url(ic-brand-medium(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-messenger {
+  background: url(ic-brand-messenger(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-netflix {
+  background: url(ic-brand-netflix(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-open-source {
+  background: url(ic-brand-open-source(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-opera {
+  background: url(ic-brand-opera(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-pagekit {
+  background: url(ic-brand-pagekit(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-patreon {
+  background: url(ic-brand-patreon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-paypal {
+  background: url(ic-brand-paypal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-pinterest {
+  background: url(ic-brand-pinterest(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-pocket {
+  background: url(ic-brand-pocket(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-producthunt {
+  background: url(ic-brand-producthunt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-python {
+  background: url(ic-brand-python(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-reddit {
+  background: url(ic-brand-reddit(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-safari {
+  background: url(ic-brand-safari(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-sass {
+  background: url(ic-brand-sass(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-sentry {
+  background: url(ic-brand-sentry(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-shazam {
+  background: url(ic-brand-shazam(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-sketch {
+  background: url(ic-brand-sketch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-skype {
+  background: url(ic-brand-skype(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-slack {
+  background: url(ic-brand-slack(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-snapchat {
+  background: url(ic-brand-snapchat(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-soundcloud {
+  background: url(ic-brand-soundcloud(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-spotify {
+  background: url(ic-brand-spotify(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-steam {
+  background: url(ic-brand-steam(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-stripe {
+  background: url(ic-brand-stripe(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-tabler {
+  background: url(ic-brand-tabler(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-tailwind {
+  background: url(ic-brand-tailwind(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-telegram {
+  background: url(ic-brand-telegram(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-tidal {
+  background: url(ic-brand-tidal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-tiktok {
+  background: url(ic-brand-tiktok(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-tinder {
+  background: url(ic-brand-tinder(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-tumblr {
+  background: url(ic-brand-tumblr(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-twitch {
+  background: url(ic-brand-twitch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-twitter {
+  background: url(ic-brand-twitter(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-unsplash {
+  background: url(ic-brand-unsplash(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-vercel {
+  background: url(ic-brand-vercel(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-vimeo {
+  background: url(ic-brand-vimeo(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-vk {
+  background: url(ic-brand-vk(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-whatsapp {
+  background: url(ic-brand-whatsapp(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-windows {
+  background: url(ic-brand-windows(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-yahoo {
+  background: url(ic-brand-yahoo(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-ycombinator {
+  background: url(ic-brand-ycombinator(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brand-youtube {
+  background: url(ic-brand-youtube(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-briefcase {
+  background: url(ic-briefcase(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brightness-2 {
+  background: url(ic-brightness-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brightness-down {
+  background: url(ic-brightness-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brightness-half {
+  background: url(ic-brightness-half(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brightness-up {
+  background: url(ic-brightness-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brightness {
+  background: url(ic-brightness(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-browser {
+  background: url(ic-browser(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-brush {
+  background: url(ic-brush(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bucket {
+  background: url(ic-bucket(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bug {
+  background: url(ic-bug(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-arch {
+  background: url(ic-building-arch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-bank {
+  background: url(ic-building-bank(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-bridge-2 {
+  background: url(ic-building-bridge-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-bridge {
+  background: url(ic-building-bridge(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-carousel {
+  background: url(ic-building-carousel(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-castle {
+  background: url(ic-building-castle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-church {
+  background: url(ic-building-church(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-community {
+  background: url(ic-building-community(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-cottage {
+  background: url(ic-building-cottage(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-factory {
+  background: url(ic-building-factory(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-fortress {
+  background: url(ic-building-fortress(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-hospital {
+  background: url(ic-building-hospital(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-lighthouse {
+  background: url(ic-building-lighthouse(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-monument {
+  background: url(ic-building-monument(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-pavilon {
+  background: url(ic-building-pavilon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-skyscraper {
+  background: url(ic-building-skyscraper(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-store {
+  background: url(ic-building-store(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building-warehouse {
+  background: url(ic-building-warehouse(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-building {
+  background: url(ic-building(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bulb-off {
+  background: url(ic-bulb-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bulb {
+  background: url(ic-bulb(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bulldozer {
+  background: url(ic-bulldozer(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-bus {
+  background: url(ic-bus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-businessplan {
+  background: url(ic-businessplan(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calculator {
+  background: url(ic-calculator(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar-event {
+  background: url(ic-calendar-event(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar-minus {
+  background: url(ic-calendar-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar-off {
+  background: url(ic-calendar-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar-plus {
+  background: url(ic-calendar-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar-stats {
+  background: url(ic-calendar-stats(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar-time {
+  background: url(ic-calendar-time(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-calendar {
+  background: url(ic-calendar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-camera-minus {
+  background: url(ic-camera-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-camera-off {
+  background: url(ic-camera-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-camera-plus {
+  background: url(ic-camera-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-camera-rotate {
+  background: url(ic-camera-rotate(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-camera-selfie {
+  background: url(ic-camera-selfie(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-camera {
+  background: url(ic-camera(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-candy {
+  background: url(ic-candy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-capture {
+  background: url(ic-capture(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-car-crane {
+  background: url(ic-car-crane(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-car {
+  background: url(ic-car(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-caravan {
+  background: url(ic-caravan(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cardboards {
+  background: url(ic-cardboards(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-caret-down {
+  background: url(ic-caret-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-caret-left {
+  background: url(ic-caret-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-caret-right {
+  background: url(ic-caret-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-caret-up {
+  background: url(ic-caret-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cash-banknote-off {
+  background: url(ic-cash-banknote-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cash-banknote {
+  background: url(ic-cash-banknote(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cash {
+  background: url(ic-cash(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cast {
+  background: url(ic-cast(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ce {
+  background: url(ic-ce(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-certificate {
+  background: url(ic-certificate(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-charging-pile {
+  background: url(ic-charging-pile(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-arcs-3 {
+  background: url(ic-chart-arcs-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-arcs {
+  background: url(ic-chart-arcs(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-area-line {
+  background: url(ic-chart-area-line(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-area {
+  background: url(ic-chart-area(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-arrows-vertical {
+  background: url(ic-chart-arrows-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-arrows {
+  background: url(ic-chart-arrows(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-bar {
+  background: url(ic-chart-bar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-bubble {
+  background: url(ic-chart-bubble(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-candle {
+  background: url(ic-chart-candle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-circles {
+  background: url(ic-chart-circles(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-donut-2 {
+  background: url(ic-chart-donut-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-donut-3 {
+  background: url(ic-chart-donut-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-donut-4 {
+  background: url(ic-chart-donut-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-donut {
+  background: url(ic-chart-donut(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-dots {
+  background: url(ic-chart-dots(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-infographic {
+  background: url(ic-chart-infographic(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-line {
+  background: url(ic-chart-line(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-pie-2 {
+  background: url(ic-chart-pie-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-pie-3 {
+  background: url(ic-chart-pie-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-pie-4 {
+  background: url(ic-chart-pie-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-pie {
+  background: url(ic-chart-pie(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chart-radar {
+  background: url(ic-chart-radar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-check {
+  background: url(ic-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-checkbox {
+  background: url(ic-checkbox(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-checks {
+  background: url(ic-checks(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cheese {
+  background: url(ic-cheese(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-down-left {
+  background: url(ic-chevron-down-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-down-right {
+  background: url(ic-chevron-down-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-down {
+  background: url(ic-chevron-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-left {
+  background: url(ic-chevron-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-right {
+  background: url(ic-chevron-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-up-left {
+  background: url(ic-chevron-up-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-up-right {
+  background: url(ic-chevron-up-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevron-up {
+  background: url(ic-chevron-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-down-left {
+  background: url(ic-chevrons-down-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-down-right {
+  background: url(ic-chevrons-down-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-down {
+  background: url(ic-chevrons-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-left {
+  background: url(ic-chevrons-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-right {
+  background: url(ic-chevrons-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-up-left {
+  background: url(ic-chevrons-up-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-up-right {
+  background: url(ic-chevrons-up-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-chevrons-up {
+  background: url(ic-chevrons-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-christmas-tree {
+  background: url(ic-christmas-tree(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-0 {
+  background: url(ic-circle-0(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-1 {
+  background: url(ic-circle-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-2 {
+  background: url(ic-circle-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-3 {
+  background: url(ic-circle-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-4 {
+  background: url(ic-circle-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-5 {
+  background: url(ic-circle-5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-6 {
+  background: url(ic-circle-6(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-7 {
+  background: url(ic-circle-7(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-8 {
+  background: url(ic-circle-8(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-9 {
+  background: url(ic-circle-9(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-check {
+  background: url(ic-circle-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-dashed {
+  background: url(ic-circle-dashed(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-dotted {
+  background: url(ic-circle-dotted(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-half-vertical {
+  background: url(ic-circle-half-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-half {
+  background: url(ic-circle-half(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-minus {
+  background: url(ic-circle-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-off {
+  background: url(ic-circle-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-plus {
+  background: url(ic-circle-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-square {
+  background: url(ic-circle-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle-x {
+  background: url(ic-circle-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circle {
+  background: url(ic-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-circles {
+  background: url(ic-circles(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clear-all {
+  background: url(ic-clear-all(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clear-formatting {
+  background: url(ic-clear-formatting(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-click {
+  background: url(ic-click(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clipboard-check {
+  background: url(ic-clipboard-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clipboard-list {
+  background: url(ic-clipboard-list(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clipboard-x {
+  background: url(ic-clipboard-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clipboard {
+  background: url(ic-clipboard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-clock {
+  background: url(ic-clock(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-download {
+  background: url(ic-cloud-download(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-fog {
+  background: url(ic-cloud-fog(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-off {
+  background: url(ic-cloud-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-rain {
+  background: url(ic-cloud-rain(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-snow {
+  background: url(ic-cloud-snow(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-storm {
+  background: url(ic-cloud-storm(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud-upload {
+  background: url(ic-cloud-upload(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cloud {
+  background: url(ic-cloud(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-code-minus {
+  background: url(ic-code-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-code-plus {
+  background: url(ic-code-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-code {
+  background: url(ic-code(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-coffee {
+  background: url(ic-coffee(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-coin {
+  background: url(ic-coin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-color-picker {
+  background: url(ic-color-picker(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-color-swatch {
+  background: url(ic-color-swatch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-column-insert-left {
+  background: url(ic-column-insert-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-column-insert-right {
+  background: url(ic-column-insert-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-columns {
+  background: url(ic-columns(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-comet {
+  background: url(ic-comet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-command {
+  background: url(ic-command(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-compass {
+  background: url(ic-compass(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-confetti {
+  background: url(ic-confetti(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-container {
+  background: url(ic-container(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-contrast {
+  background: url(ic-contrast(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cookie {
+  background: url(ic-cookie(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-copy {
+  background: url(ic-copy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-copyleft {
+  background: url(ic-copyleft(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-copyright {
+  background: url(ic-copyright(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-down-left-double {
+  background: url(ic-corner-down-left-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-down-left {
+  background: url(ic-corner-down-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-down-right-double {
+  background: url(ic-corner-down-right-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-down-right {
+  background: url(ic-corner-down-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-left-down-double {
+  background: url(ic-corner-left-down-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-left-down {
+  background: url(ic-corner-left-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-left-up-double {
+  background: url(ic-corner-left-up-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-left-up {
+  background: url(ic-corner-left-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-right-down-double {
+  background: url(ic-corner-right-down-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-right-down {
+  background: url(ic-corner-right-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-right-up-double {
+  background: url(ic-corner-right-up-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-right-up {
+  background: url(ic-corner-right-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-up-left-double {
+  background: url(ic-corner-up-left-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-up-left {
+  background: url(ic-corner-up-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-up-right-double {
+  background: url(ic-corner-up-right-double(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-corner-up-right {
+  background: url(ic-corner-up-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-crane {
+  background: url(ic-crane(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-credit-card-off {
+  background: url(ic-credit-card-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-credit-card {
+  background: url(ic-credit-card(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-crop {
+  background: url(ic-crop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-crosshair {
+  background: url(ic-crosshair(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-crown-off {
+  background: url(ic-crown-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-crown {
+  background: url(ic-crown(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cup {
+  background: url(ic-cup(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-curly-loop {
+  background: url(ic-curly-loop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-bahraini {
+  background: url(ic-currency-bahraini(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-bath {
+  background: url(ic-currency-bath(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-bitcoin {
+  background: url(ic-currency-bitcoin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-cent {
+  background: url(ic-currency-cent(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-dinar {
+  background: url(ic-currency-dinar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-dirham {
+  background: url(ic-currency-dirham(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-dollar-australian {
+  background: url(ic-currency-dollar-australian(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-dollar-canadian {
+  background: url(ic-currency-dollar-canadian(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-dollar-singapore {
+  background: url(ic-currency-dollar-singapore(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-dollar {
+  background: url(ic-currency-dollar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-ethereum {
+  background: url(ic-currency-ethereum(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-euro {
+  background: url(ic-currency-euro(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-forint {
+  background: url(ic-currency-forint(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-frank {
+  background: url(ic-currency-frank(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-krone-czech {
+  background: url(ic-currency-krone-czech(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-krone-danish {
+  background: url(ic-currency-krone-danish(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-krone-swedish {
+  background: url(ic-currency-krone-swedish(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-leu {
+  background: url(ic-currency-leu(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-lira {
+  background: url(ic-currency-lira(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-litecoin {
+  background: url(ic-currency-litecoin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-naira {
+  background: url(ic-currency-naira(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-pound {
+  background: url(ic-currency-pound(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-real {
+  background: url(ic-currency-real(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-renminbi {
+  background: url(ic-currency-renminbi(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-ripple {
+  background: url(ic-currency-ripple(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-riyal {
+  background: url(ic-currency-riyal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-rubel {
+  background: url(ic-currency-rubel(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-rupee {
+  background: url(ic-currency-rupee(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-shekel {
+  background: url(ic-currency-shekel(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-taka {
+  background: url(ic-currency-taka(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-tugrik {
+  background: url(ic-currency-tugrik(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-won {
+  background: url(ic-currency-won(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-yen {
+  background: url(ic-currency-yen(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-currency-zloty {
+  background: url(ic-currency-zloty(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-current-location {
+  background: url(ic-current-location(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cursor-text {
+  background: url(ic-cursor-text(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-cut {
+  background: url(ic-cut(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dashboard {
+  background: url(ic-dashboard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-database-export {
+  background: url(ic-database-export(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-database-import {
+  background: url(ic-database-import(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-database-off {
+  background: url(ic-database-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-database {
+  background: url(ic-database(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-details {
+  background: url(ic-details(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-analytics {
+  background: url(ic-device-analytics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-audio-tape {
+  background: url(ic-device-audio-tape(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-cctv {
+  background: url(ic-device-cctv(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-computer-camera-off {
+  background: url(ic-device-computer-camera-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-computer-camera {
+  background: url(ic-device-computer-camera(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-desktop-analytics {
+  background: url(ic-device-desktop-analytics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-desktop-off {
+  background: url(ic-device-desktop-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-desktop {
+  background: url(ic-device-desktop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-floppy {
+  background: url(ic-device-floppy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-gamepad {
+  background: url(ic-device-gamepad(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-laptop {
+  background: url(ic-device-laptop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-mobile-message {
+  background: url(ic-device-mobile-message(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-mobile-rotated {
+  background: url(ic-device-mobile-rotated(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-mobile-vibration {
+  background: url(ic-device-mobile-vibration(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-mobile {
+  background: url(ic-device-mobile(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-speaker {
+  background: url(ic-device-speaker(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-tablet {
+  background: url(ic-device-tablet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-tv {
+  background: url(ic-device-tv(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-device-watch {
+  background: url(ic-device-watch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-devices-2 {
+  background: url(ic-devices-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-devices-pc {
+  background: url(ic-devices-pc(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-devices {
+  background: url(ic-devices(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-diamond {
+  background: url(ic-diamond(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dice {
+  background: url(ic-dice(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dimensions {
+  background: url(ic-dimensions(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-direction-horizontal {
+  background: url(ic-direction-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-direction {
+  background: url(ic-direction(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-directions {
+  background: url(ic-directions(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-disabled-2 {
+  background: url(ic-disabled-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-disabled {
+  background: url(ic-disabled(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-disc {
+  background: url(ic-disc(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-discount-2 {
+  background: url(ic-discount-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-discount {
+  background: url(ic-discount(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-divide {
+  background: url(ic-divide(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dna {
+  background: url(ic-dna(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dog-bowl {
+  background: url(ic-dog-bowl(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dots-circle-horizontal {
+  background: url(ic-dots-circle-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dots-diagonal-2 {
+  background: url(ic-dots-diagonal-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dots-diagonal {
+  background: url(ic-dots-diagonal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dots-vertical {
+  background: url(ic-dots-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-dots {
+  background: url(ic-dots(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-download {
+  background: url(ic-download(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-drag-drop-2 {
+  background: url(ic-drag-drop-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-drag-drop {
+  background: url(ic-drag-drop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-drone-off {
+  background: url(ic-drone-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-drone {
+  background: url(ic-drone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-droplet-filled-2 {
+  background: url(ic-droplet-filled-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-droplet-filled {
+  background: url(ic-droplet-filled(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-droplet-half-2 {
+  background: url(ic-droplet-half-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-droplet-half {
+  background: url(ic-droplet-half(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-droplet-off {
+  background: url(ic-droplet-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-droplet {
+  background: url(ic-droplet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ear-off {
+  background: url(ic-ear-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ear {
+  background: url(ic-ear(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-edit-circle {
+  background: url(ic-edit-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-edit {
+  background: url(ic-edit(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-egg {
+  background: url(ic-egg(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-emphasis {
+  background: url(ic-emphasis(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-equal-not {
+  background: url(ic-equal-not(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-equal {
+  background: url(ic-equal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-eraser {
+  background: url(ic-eraser(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-exchange {
+  background: url(ic-exchange(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-exposure {
+  background: url(ic-exposure(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-external-link {
+  background: url(ic-external-link(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-eye-check {
+  background: url(ic-eye-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-eye-off {
+  background: url(ic-eye-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-eye {
+  background: url(ic-eye(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-eyeglass-2 {
+  background: url(ic-eyeglass-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-eyeglass {
+  background: url(ic-eyeglass(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-face-id {
+  background: url(ic-face-id(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fall {
+  background: url(ic-fall(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-feather {
+  background: url(ic-feather(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fence {
+  background: url(ic-fence(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-alert {
+  background: url(ic-file-alert(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-analytics {
+  background: url(ic-file-analytics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-certificate {
+  background: url(ic-file-certificate(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-check {
+  background: url(ic-file-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-code-2 {
+  background: url(ic-file-code-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-code {
+  background: url(ic-file-code(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-diff {
+  background: url(ic-file-diff(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-dislike {
+  background: url(ic-file-dislike(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-download {
+  background: url(ic-file-download(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-export {
+  background: url(ic-file-export(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-horizontal {
+  background: url(ic-file-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-import {
+  background: url(ic-file-import(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-info {
+  background: url(ic-file-info(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-invoice {
+  background: url(ic-file-invoice(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-like {
+  background: url(ic-file-like(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-minus {
+  background: url(ic-file-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-music {
+  background: url(ic-file-music(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-off {
+  background: url(ic-file-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-phone {
+  background: url(ic-file-phone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-plus {
+  background: url(ic-file-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-report {
+  background: url(ic-file-report(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-search {
+  background: url(ic-file-search(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-shredder {
+  background: url(ic-file-shredder(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-symlink {
+  background: url(ic-file-symlink(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-text {
+  background: url(ic-file-text(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-upload {
+  background: url(ic-file-upload(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-x {
+  background: url(ic-file-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file-zip {
+  background: url(ic-file-zip(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-file {
+  background: url(ic-file(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-files-off {
+  background: url(ic-files-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-files {
+  background: url(ic-files(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-filter-off {
+  background: url(ic-filter-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-filter {
+  background: url(ic-filter(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fingerprint {
+  background: url(ic-fingerprint(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-firetruck {
+  background: url(ic-firetruck(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fish {
+  background: url(ic-fish(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flag-2 {
+  background: url(ic-flag-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flag-3 {
+  background: url(ic-flag-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flag {
+  background: url(ic-flag(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flame {
+  background: url(ic-flame(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flare {
+  background: url(ic-flare(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flask {
+  background: url(ic-flask(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flip-horizontal {
+  background: url(ic-flip-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-flip-vertical {
+  background: url(ic-flip-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-float-center {
+  background: url(ic-float-center(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-float-left {
+  background: url(ic-float-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-float-none {
+  background: url(ic-float-none(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-float-right {
+  background: url(ic-float-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-focus-2 {
+  background: url(ic-focus-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-focus {
+  background: url(ic-focus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fold-down {
+  background: url(ic-fold-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fold-up {
+  background: url(ic-fold-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-fold {
+  background: url(ic-fold(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-folder-minus {
+  background: url(ic-folder-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-folder-off {
+  background: url(ic-folder-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-folder-plus {
+  background: url(ic-folder-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-folder-x {
+  background: url(ic-folder-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-folder {
+  background: url(ic-folder(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-folders {
+  background: url(ic-folders(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-forbid-2 {
+  background: url(ic-forbid-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-forbid {
+  background: url(ic-forbid(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-forklift {
+  background: url(ic-forklift(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-forms {
+  background: url(ic-forms(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-frame {
+  background: url(ic-frame(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-friends {
+  background: url(ic-friends(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-gas-station {
+  background: url(ic-gas-station(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-gauge {
+  background: url(ic-gauge(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-geometry {
+  background: url(ic-geometry(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ghost {
+  background: url(ic-ghost(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-gift {
+  background: url(ic-gift(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-git-branch {
+  background: url(ic-git-branch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-git-commit {
+  background: url(ic-git-commit(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-git-compare {
+  background: url(ic-git-compare(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-git-fork {
+  background: url(ic-git-fork(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-git-merge {
+  background: url(ic-git-merge(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-git-pull-request {
+  background: url(ic-git-pull-request(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-glass-full {
+  background: url(ic-glass-full(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-glass-off {
+  background: url(ic-glass-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-glass {
+  background: url(ic-glass(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-globe {
+  background: url(ic-globe(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-golf {
+  background: url(ic-golf(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-gps {
+  background: url(ic-gps(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-grain {
+  background: url(ic-grain(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-grid-dots {
+  background: url(ic-grid-dots(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-grip-horizontal {
+  background: url(ic-grip-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-grip-vertical {
+  background: url(ic-grip-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-growth {
+  background: url(ic-growth(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-h-1 {
+  background: url(ic-h-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-h-2 {
+  background: url(ic-h-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-h-3 {
+  background: url(ic-h-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-h-4 {
+  background: url(ic-h-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-h-5 {
+  background: url(ic-h-5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-h-6 {
+  background: url(ic-h-6(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-finger {
+  background: url(ic-hand-finger(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-little-finger {
+  background: url(ic-hand-little-finger(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-middle-finger {
+  background: url(ic-hand-middle-finger(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-off {
+  background: url(ic-hand-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-ring-finger {
+  background: url(ic-hand-ring-finger(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-rock {
+  background: url(ic-hand-rock(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-stop {
+  background: url(ic-hand-stop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-three-fingers {
+  background: url(ic-hand-three-fingers(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hand-two-fingers {
+  background: url(ic-hand-two-fingers(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hanger {
+  background: url(ic-hanger(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hash {
+  background: url(ic-hash(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-heading {
+  background: url(ic-heading(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-headphones-off {
+  background: url(ic-headphones-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-headphones {
+  background: url(ic-headphones(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-headset {
+  background: url(ic-headset(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-heart-broken {
+  background: url(ic-heart-broken(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-heart {
+  background: url(ic-heart(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-helicopter-landing {
+  background: url(ic-helicopter-landing(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-helicopter {
+  background: url(ic-helicopter(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-help {
+  background: url(ic-help(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hexagon-off {
+  background: url(ic-hexagon-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hexagon {
+  background: url(ic-hexagon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hierarchy-2 {
+  background: url(ic-hierarchy-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-hierarchy {
+  background: url(ic-hierarchy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-history {
+  background: url(ic-history(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-home-2 {
+  background: url(ic-home-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-home {
+  background: url(ic-home(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ice-cream-2 {
+  background: url(ic-ice-cream-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ice-cream {
+  background: url(ic-ice-cream(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-id {
+  background: url(ic-id(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-inbox {
+  background: url(ic-inbox(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-indent-decrease {
+  background: url(ic-indent-decrease(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-indent-increase {
+  background: url(ic-indent-increase(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-infinity {
+  background: url(ic-infinity(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-info-circle {
+  background: url(ic-info-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-info-square {
+  background: url(ic-info-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-italic {
+  background: url(ic-italic(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-jump-rope {
+  background: url(ic-jump-rope(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-karate {
+  background: url(ic-karate(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-key {
+  background: url(ic-key(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-keyboard-hide {
+  background: url(ic-keyboard-hide(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-keyboard-off {
+  background: url(ic-keyboard-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-keyboard-show {
+  background: url(ic-keyboard-show(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-keyboard {
+  background: url(ic-keyboard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-language {
+  background: url(ic-language(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layers-difference {
+  background: url(ic-layers-difference(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layers-intersect {
+  background: url(ic-layers-intersect(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layers-linked {
+  background: url(ic-layers-linked(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layers-subtract {
+  background: url(ic-layers-subtract(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layers-union {
+  background: url(ic-layers-union(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-2 {
+  background: url(ic-layout-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-align-bottom {
+  background: url(ic-layout-align-bottom(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-align-center {
+  background: url(ic-layout-align-center(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-align-left {
+  background: url(ic-layout-align-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-align-middle {
+  background: url(ic-layout-align-middle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-align-right {
+  background: url(ic-layout-align-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-align-top {
+  background: url(ic-layout-align-top(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-bottombar {
+  background: url(ic-layout-bottombar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-cards {
+  background: url(ic-layout-cards(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-columns {
+  background: url(ic-layout-columns(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-distribute-horizontal {
+  background: url(ic-layout-distribute-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-distribute-vertical {
+  background: url(ic-layout-distribute-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-grid-add {
+  background: url(ic-layout-grid-add(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-grid {
+  background: url(ic-layout-grid(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-kanban {
+  background: url(ic-layout-kanban(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-list {
+  background: url(ic-layout-list(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-navbar {
+  background: url(ic-layout-navbar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-rows {
+  background: url(ic-layout-rows(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-sidebar-right {
+  background: url(ic-layout-sidebar-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout-sidebar {
+  background: url(ic-layout-sidebar(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-layout {
+  background: url(ic-layout(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-leaf {
+  background: url(ic-leaf(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lego {
+  background: url(ic-lego(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lemon {
+  background: url(ic-lemon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-a {
+  background: url(ic-letter-a(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-b {
+  background: url(ic-letter-b(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-c {
+  background: url(ic-letter-c(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-case-lower {
+  background: url(ic-letter-case-lower(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-case-toggle {
+  background: url(ic-letter-case-toggle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-case-upper {
+  background: url(ic-letter-case-upper(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-case {
+  background: url(ic-letter-case(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-d {
+  background: url(ic-letter-d(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-e {
+  background: url(ic-letter-e(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-f {
+  background: url(ic-letter-f(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-g {
+  background: url(ic-letter-g(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-h {
+  background: url(ic-letter-h(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-i {
+  background: url(ic-letter-i(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-j {
+  background: url(ic-letter-j(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-k {
+  background: url(ic-letter-k(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-l {
+  background: url(ic-letter-l(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-m {
+  background: url(ic-letter-m(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-n {
+  background: url(ic-letter-n(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-o {
+  background: url(ic-letter-o(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-p {
+  background: url(ic-letter-p(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-q {
+  background: url(ic-letter-q(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-r {
+  background: url(ic-letter-r(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-s {
+  background: url(ic-letter-s(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-spacing {
+  background: url(ic-letter-spacing(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-t {
+  background: url(ic-letter-t(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-u {
+  background: url(ic-letter-u(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-v {
+  background: url(ic-letter-v(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-w {
+  background: url(ic-letter-w(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-x {
+  background: url(ic-letter-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-y {
+  background: url(ic-letter-y(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letter-z {
+  background: url(ic-letter-z(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-letters-case {
+  background: url(ic-letters-case(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-license {
+  background: url(ic-license(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lifebuoy {
+  background: url(ic-lifebuoy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-line-dashed {
+  background: url(ic-line-dashed(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-line-dotted {
+  background: url(ic-line-dotted(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-line-height {
+  background: url(ic-line-height(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-line {
+  background: url(ic-line(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-link {
+  background: url(ic-link(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-list-check {
+  background: url(ic-list-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-list-numbers {
+  background: url(ic-list-numbers(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-list-search {
+  background: url(ic-list-search(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-list {
+  background: url(ic-list(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-live-photo {
+  background: url(ic-live-photo(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-live-view {
+  background: url(ic-live-view(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-loader-quarter {
+  background: url(ic-loader-quarter(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-loader {
+  background: url(ic-loader(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-location {
+  background: url(ic-location(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lock-access {
+  background: url(ic-lock-access(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lock-off {
+  background: url(ic-lock-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lock-open {
+  background: url(ic-lock-open(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-lock {
+  background: url(ic-lock(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-login {
+  background: url(ic-login(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-logout {
+  background: url(ic-logout(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-macro {
+  background: url(ic-macro(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-magnet {
+  background: url(ic-magnet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mail-forward {
+  background: url(ic-mail-forward(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mail-opened {
+  background: url(ic-mail-opened(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mail {
+  background: url(ic-mail(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mailbox {
+  background: url(ic-mailbox(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-man {
+  background: url(ic-man(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-manual-gearbox {
+  background: url(ic-manual-gearbox(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-map-2 {
+  background: url(ic-map-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-map-pin-off {
+  background: url(ic-map-pin-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-map-pin {
+  background: url(ic-map-pin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-map-pins {
+  background: url(ic-map-pins(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-map {
+  background: url(ic-map(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-markdown {
+  background: url(ic-markdown(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-marquee-2 {
+  background: url(ic-marquee-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-marquee {
+  background: url(ic-marquee(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mars {
+  background: url(ic-mars(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mask-off {
+  background: url(ic-mask-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mask {
+  background: url(ic-mask(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-massage {
+  background: url(ic-massage(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-math-function {
+  background: url(ic-math-function(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-math-symbols {
+  background: url(ic-math-symbols(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-math {
+  background: url(ic-math(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-maximize {
+  background: url(ic-maximize(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-meat {
+  background: url(ic-meat(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-medal {
+  background: url(ic-medal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-medical-cross {
+  background: url(ic-medical-cross(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-menu-2 {
+  background: url(ic-menu-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-menu {
+  background: url(ic-menu(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-2 {
+  background: url(ic-message-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-circle-2 {
+  background: url(ic-message-circle-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-circle-off {
+  background: url(ic-message-circle-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-circle {
+  background: url(ic-message-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-dots {
+  background: url(ic-message-dots(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-off {
+  background: url(ic-message-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-plus {
+  background: url(ic-message-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message-report {
+  background: url(ic-message-report(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-message {
+  background: url(ic-message(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-messages-off {
+  background: url(ic-messages-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-messages {
+  background: url(ic-messages(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-microphone-2 {
+  background: url(ic-microphone-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-microphone-off {
+  background: url(ic-microphone-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-microphone {
+  background: url(ic-microphone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-milk {
+  background: url(ic-milk(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-minimize {
+  background: url(ic-minimize(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-minus-vertical {
+  background: url(ic-minus-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-minus {
+  background: url(ic-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mist {
+  background: url(ic-mist(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-boy {
+  background: url(ic-mood-boy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-confuzed {
+  background: url(ic-mood-confuzed(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-crazy-happy {
+  background: url(ic-mood-crazy-happy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-cry {
+  background: url(ic-mood-cry(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-empty {
+  background: url(ic-mood-empty(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-happy {
+  background: url(ic-mood-happy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-kid {
+  background: url(ic-mood-kid(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-neutral {
+  background: url(ic-mood-neutral(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-sad {
+  background: url(ic-mood-sad(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-smile {
+  background: url(ic-mood-smile(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-suprised {
+  background: url(ic-mood-suprised(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mood-tongue {
+  background: url(ic-mood-tongue(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-moon-2 {
+  background: url(ic-moon-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-moon-stars {
+  background: url(ic-moon-stars(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-moon {
+  background: url(ic-moon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-moped {
+  background: url(ic-moped(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-motorbike {
+  background: url(ic-motorbike(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mouse {
+  background: url(ic-mouse(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-movie {
+  background: url(ic-movie(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mug {
+  background: url(ic-mug(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-mushroom {
+  background: url(ic-mushroom(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-music {
+  background: url(ic-music(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-new-section {
+  background: url(ic-new-section(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-news {
+  background: url(ic-news(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-nfc {
+  background: url(ic-nfc(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-note {
+  background: url(ic-note(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-notebook {
+  background: url(ic-notebook(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-notes {
+  background: url(ic-notes(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-notification {
+  background: url(ic-notification(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-0 {
+  background: url(ic-number-0(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-1 {
+  background: url(ic-number-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-2 {
+  background: url(ic-number-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-3 {
+  background: url(ic-number-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-4 {
+  background: url(ic-number-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-5 {
+  background: url(ic-number-5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-6 {
+  background: url(ic-number-6(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-7 {
+  background: url(ic-number-7(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-8 {
+  background: url(ic-number-8(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-number-9 {
+  background: url(ic-number-9(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-octagon-off {
+  background: url(ic-octagon-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-octagon {
+  background: url(ic-octagon(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-old {
+  background: url(ic-old(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-olympics {
+  background: url(ic-olympics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-omega {
+  background: url(ic-omega(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-outlet {
+  background: url(ic-outlet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-overline {
+  background: url(ic-overline(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-package {
+  background: url(ic-package(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pacman {
+  background: url(ic-pacman(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-page-break {
+  background: url(ic-page-break(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-paint {
+  background: url(ic-paint(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-palette {
+  background: url(ic-palette(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-panorama-horizontal {
+  background: url(ic-panorama-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-panorama-vertical {
+  background: url(ic-panorama-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-paperclip {
+  background: url(ic-paperclip(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-parachute {
+  background: url(ic-parachute(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-parentheses {
+  background: url(ic-parentheses(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-parking {
+  background: url(ic-parking(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-peace {
+  background: url(ic-peace(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pencil {
+  background: url(ic-pencil(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pennant {
+  background: url(ic-pennant(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pepper {
+  background: url(ic-pepper(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-percentage {
+  background: url(ic-percentage(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-perspective {
+  background: url(ic-perspective(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-call {
+  background: url(ic-phone-call(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-calling {
+  background: url(ic-phone-calling(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-check {
+  background: url(ic-phone-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-incoming {
+  background: url(ic-phone-incoming(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-off {
+  background: url(ic-phone-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-outgoing {
+  background: url(ic-phone-outgoing(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-pause {
+  background: url(ic-phone-pause(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-plus {
+  background: url(ic-phone-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone-x {
+  background: url(ic-phone-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-phone {
+  background: url(ic-phone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-photo-off {
+  background: url(ic-photo-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-photo {
+  background: url(ic-photo(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-physotherapist {
+  background: url(ic-physotherapist(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-picture-in-picture-off {
+  background: url(ic-picture-in-picture-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-picture-in-picture-on {
+  background: url(ic-picture-in-picture-on(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-picture-in-picture {
+  background: url(ic-picture-in-picture(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pill {
+  background: url(ic-pill(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pin {
+  background: url(ic-pin(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pinned-off {
+  background: url(ic-pinned-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pinned {
+  background: url(ic-pinned(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pizza {
+  background: url(ic-pizza(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plane-arrival {
+  background: url(ic-plane-arrival(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plane-departure {
+  background: url(ic-plane-departure(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plane {
+  background: url(ic-plane(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-planet {
+  background: url(ic-planet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plant-2 {
+  background: url(ic-plant-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plant {
+  background: url(ic-plant(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-play-card {
+  background: url(ic-play-card(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-pause {
+  background: url(ic-player-pause(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-play {
+  background: url(ic-player-play(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-record {
+  background: url(ic-player-record(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-skip-back {
+  background: url(ic-player-skip-back(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-skip-forward {
+  background: url(ic-player-skip-forward(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-stop {
+  background: url(ic-player-stop(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-track-next {
+  background: url(ic-player-track-next(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-player-track-prev {
+  background: url(ic-player-track-prev(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-playlist {
+  background: url(ic-playlist(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plug {
+  background: url(ic-plug(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-plus {
+  background: url(ic-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-point {
+  background: url(ic-point(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pokeball {
+  background: url(ic-pokeball(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-polaroid {
+  background: url(ic-polaroid(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pool {
+  background: url(ic-pool(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-power {
+  background: url(ic-power(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pray {
+  background: url(ic-pray(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-presentation-analytics {
+  background: url(ic-presentation-analytics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-presentation {
+  background: url(ic-presentation(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-printer {
+  background: url(ic-printer(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-prompt {
+  background: url(ic-prompt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-propeller {
+  background: url(ic-propeller(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-puzzle {
+  background: url(ic-puzzle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-pyramid {
+  background: url(ic-pyramid(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-qrcode {
+  background: url(ic-qrcode(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-question-mark {
+  background: url(ic-question-mark(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-radio {
+  background: url(ic-radio(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-radioactive {
+  background: url(ic-radioactive(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-radius-bottom-left {
+  background: url(ic-radius-bottom-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-radius-bottom-right {
+  background: url(ic-radius-bottom-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-radius-top-left {
+  background: url(ic-radius-top-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-radius-top-right {
+  background: url(ic-radius-top-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rainbow {
+  background: url(ic-rainbow(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-receipt-2 {
+  background: url(ic-receipt-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-receipt-off {
+  background: url(ic-receipt-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-receipt-refund {
+  background: url(ic-receipt-refund(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-receipt-tax {
+  background: url(ic-receipt-tax(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-receipt {
+  background: url(ic-receipt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-recharging {
+  background: url(ic-recharging(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-record-mail {
+  background: url(ic-record-mail(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rectangle-vertical {
+  background: url(ic-rectangle-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rectangle {
+  background: url(ic-rectangle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-recycle {
+  background: url(ic-recycle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-refresh-alert {
+  background: url(ic-refresh-alert(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-refresh {
+  background: url(ic-refresh(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-registered {
+  background: url(ic-registered(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-relation-many-to-many {
+  background: url(ic-relation-many-to-many(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-relation-one-to-many {
+  background: url(ic-relation-one-to-many(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-relation-one-to-one {
+  background: url(ic-relation-one-to-one(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-repeat-once {
+  background: url(ic-repeat-once(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-repeat {
+  background: url(ic-repeat(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-replace {
+  background: url(ic-replace(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-report-analytics {
+  background: url(ic-report-analytics(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-report-medical {
+  background: url(ic-report-medical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-report-money {
+  background: url(ic-report-money(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-report {
+  background: url(ic-report(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-resize {
+  background: url(ic-resize(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ripple {
+  background: url(ic-ripple(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-road-sign {
+  background: url(ic-road-sign(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rocket {
+  background: url(ic-rocket(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rotate-2 {
+  background: url(ic-rotate-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rotate-clockwise-2 {
+  background: url(ic-rotate-clockwise-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rotate-clockwise {
+  background: url(ic-rotate-clockwise(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rotate-rectangle {
+  background: url(ic-rotate-rectangle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rotate {
+  background: url(ic-rotate(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-route {
+  background: url(ic-route(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-router {
+  background: url(ic-router(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-row-insert-bottom {
+  background: url(ic-row-insert-bottom(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-row-insert-top {
+  background: url(ic-row-insert-top(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-rss {
+  background: url(ic-rss(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ruler-2 {
+  background: url(ic-ruler-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ruler {
+  background: url(ic-ruler(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-run {
+  background: url(ic-run(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sailboat {
+  background: url(ic-sailboat(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-salt {
+  background: url(ic-salt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-satellite {
+  background: url(ic-satellite(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sausage {
+  background: url(ic-sausage(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-scale {
+  background: url(ic-scale(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-scan {
+  background: url(ic-scan(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-school {
+  background: url(ic-school(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-scissors {
+  background: url(ic-scissors(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-scooter-electric {
+  background: url(ic-scooter-electric(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-scooter {
+  background: url(ic-scooter(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-screen-share-off {
+  background: url(ic-screen-share-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-screen-share {
+  background: url(ic-screen-share(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-scuba-mask {
+  background: url(ic-scuba-mask(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-search {
+  background: url(ic-search(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-section {
+  background: url(ic-section(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-seeding {
+  background: url(ic-seeding(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-select {
+  background: url(ic-select(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-selector {
+  background: url(ic-selector(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-send {
+  background: url(ic-send(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-separator-horizontal {
+  background: url(ic-separator-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-separator-vertical {
+  background: url(ic-separator-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-separator {
+  background: url(ic-separator(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-server {
+  background: url(ic-server(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-servicemark {
+  background: url(ic-servicemark(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-settings-automation {
+  background: url(ic-settings-automation(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-settings {
+  background: url(ic-settings(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shadow-off {
+  background: url(ic-shadow-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shadow {
+  background: url(ic-shadow(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shape-2 {
+  background: url(ic-shape-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shape-3 {
+  background: url(ic-shape-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shape {
+  background: url(ic-shape(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-share {
+  background: url(ic-share(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shield-check {
+  background: url(ic-shield-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shield-lock {
+  background: url(ic-shield-lock(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shield-off {
+  background: url(ic-shield-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shield-x {
+  background: url(ic-shield-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shield {
+  background: url(ic-shield(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ship {
+  background: url(ic-ship(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shirt {
+  background: url(ic-shirt(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shopping-cart-discount {
+  background: url(ic-shopping-cart-discount(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shopping-cart-off {
+  background: url(ic-shopping-cart-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shopping-cart-plus {
+  background: url(ic-shopping-cart-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shopping-cart-x {
+  background: url(ic-shopping-cart-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shopping-cart {
+  background: url(ic-shopping-cart(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-shredder {
+  background: url(ic-shredder(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-signature {
+  background: url(ic-signature(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sitemap {
+  background: url(ic-sitemap(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-skateboard {
+  background: url(ic-skateboard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-slice {
+  background: url(ic-slice(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-slideshow {
+  background: url(ic-slideshow(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-smart-home {
+  background: url(ic-smart-home(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-smoking-no {
+  background: url(ic-smoking-no(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-smoking {
+  background: url(ic-smoking(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-snowflake {
+  background: url(ic-snowflake(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-soccer-field {
+  background: url(ic-soccer-field(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-social {
+  background: url(ic-social(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sock {
+  background: url(ic-sock(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-ascending-2 {
+  background: url(ic-sort-ascending-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-ascending-letters {
+  background: url(ic-sort-ascending-letters(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-ascending-numbers {
+  background: url(ic-sort-ascending-numbers(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-ascending {
+  background: url(ic-sort-ascending(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-descending-2 {
+  background: url(ic-sort-descending-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-descending-letters {
+  background: url(ic-sort-descending-letters(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-descending-numbers {
+  background: url(ic-sort-descending-numbers(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sort-descending {
+  background: url(ic-sort-descending(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-soup {
+  background: url(ic-soup(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-space {
+  background: url(ic-space(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-speakerphone {
+  background: url(ic-speakerphone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-speedboat {
+  background: url(ic-speedboat(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sport-billard {
+  background: url(ic-sport-billard(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-0 {
+  background: url(ic-square-0(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-1 {
+  background: url(ic-square-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-2 {
+  background: url(ic-square-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-3 {
+  background: url(ic-square-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-4 {
+  background: url(ic-square-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-5 {
+  background: url(ic-square-5(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-6 {
+  background: url(ic-square-6(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-7 {
+  background: url(ic-square-7(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-8 {
+  background: url(ic-square-8(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-9 {
+  background: url(ic-square-9(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-check {
+  background: url(ic-square-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-dot {
+  background: url(ic-square-dot(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-forbid-2 {
+  background: url(ic-square-forbid-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-forbid {
+  background: url(ic-square-forbid(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-minus {
+  background: url(ic-square-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-off {
+  background: url(ic-square-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-plus {
+  background: url(ic-square-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-root-2 {
+  background: url(ic-square-root-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-root {
+  background: url(ic-square-root(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-rotated-off {
+  background: url(ic-square-rotated-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-rotated {
+  background: url(ic-square-rotated(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-toggle-horizontal {
+  background: url(ic-square-toggle-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-toggle {
+  background: url(ic-square-toggle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square-x {
+  background: url(ic-square-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-square {
+  background: url(ic-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-squares-diagonal {
+  background: url(ic-squares-diagonal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-squares-filled {
+  background: url(ic-squares-filled(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stack-2 {
+  background: url(ic-stack-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stack {
+  background: url(ic-stack(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stairs-down {
+  background: url(ic-stairs-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stairs-up {
+  background: url(ic-stairs-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stairs {
+  background: url(ic-stairs(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-star-half {
+  background: url(ic-star-half(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-star-off {
+  background: url(ic-star-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-star {
+  background: url(ic-star(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stars {
+  background: url(ic-stars(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-steering-wheel {
+  background: url(ic-steering-wheel(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-step-into {
+  background: url(ic-step-into(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-step-out {
+  background: url(ic-step-out(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-stethoscope {
+  background: url(ic-stethoscope(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sticker {
+  background: url(ic-sticker(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-strikethrough {
+  background: url(ic-strikethrough(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-submarine {
+  background: url(ic-submarine(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-subscript {
+  background: url(ic-subscript(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-subtask {
+  background: url(ic-subtask(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sum {
+  background: url(ic-sum(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sun-off {
+  background: url(ic-sun-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sun {
+  background: url(ic-sun(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sunrise {
+  background: url(ic-sunrise(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-sunset {
+  background: url(ic-sunset(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-superscript {
+  background: url(ic-superscript(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-swimming {
+  background: url(ic-swimming(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-switch-2 {
+  background: url(ic-switch-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-switch-3 {
+  background: url(ic-switch-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-switch-horizontal {
+  background: url(ic-switch-horizontal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-switch-vertical {
+  background: url(ic-switch-vertical(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-switch {
+  background: url(ic-switch(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-table-export {
+  background: url(ic-table-export(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-table-import {
+  background: url(ic-table-import(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-table-off {
+  background: url(ic-table-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-table {
+  background: url(ic-table(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tag {
+  background: url(ic-tag(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tallymark-1 {
+  background: url(ic-tallymark-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tallymark-2 {
+  background: url(ic-tallymark-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tallymark-3 {
+  background: url(ic-tallymark-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tallymark-4 {
+  background: url(ic-tallymark-4(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tallymarks {
+  background: url(ic-tallymarks(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tank {
+  background: url(ic-tank(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-target {
+  background: url(ic-target(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-temperature-celsius {
+  background: url(ic-temperature-celsius(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-temperature-fahrenheit {
+  background: url(ic-temperature-fahrenheit(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-temperature-minus {
+  background: url(ic-temperature-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-temperature-plus {
+  background: url(ic-temperature-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-temperature {
+  background: url(ic-temperature(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-template {
+  background: url(ic-template(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tent {
+  background: url(ic-tent(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-terminal-2 {
+  background: url(ic-terminal-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-terminal {
+  background: url(ic-terminal(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-test-pipe {
+  background: url(ic-test-pipe(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-text-direction-ltr {
+  background: url(ic-text-direction-ltr(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-text-direction-rtl {
+  background: url(ic-text-direction-rtl(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-text-wrap-disabled {
+  background: url(ic-text-wrap-disabled(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-text-wrap {
+  background: url(ic-text-wrap(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-thumb-down {
+  background: url(ic-thumb-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-thumb-up {
+  background: url(ic-thumb-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-ticket {
+  background: url(ic-ticket(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tilt-shift {
+  background: url(ic-tilt-shift(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tir {
+  background: url(ic-tir(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-toggle-left {
+  background: url(ic-toggle-left(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-toggle-right {
+  background: url(ic-toggle-right(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tool {
+  background: url(ic-tool(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tools-kitchen-2 {
+  background: url(ic-tools-kitchen-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tools-kitchen {
+  background: url(ic-tools-kitchen(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tools {
+  background: url(ic-tools(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tornado {
+  background: url(ic-tornado(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tournament {
+  background: url(ic-tournament(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-track {
+  background: url(ic-track(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tractor {
+  background: url(ic-tractor(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trademark {
+  background: url(ic-trademark(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-traffic-cone {
+  background: url(ic-traffic-cone(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-traffic-lights {
+  background: url(ic-traffic-lights(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-train {
+  background: url(ic-train(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-transfer-in {
+  background: url(ic-transfer-in(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-transfer-out {
+  background: url(ic-transfer-out(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trash-off {
+  background: url(ic-trash-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trash {
+  background: url(ic-trash(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-tree {
+  background: url(ic-tree(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trees {
+  background: url(ic-trees(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trending-down-2 {
+  background: url(ic-trending-down-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trending-down-3 {
+  background: url(ic-trending-down-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trending-down {
+  background: url(ic-trending-down(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trending-up-2 {
+  background: url(ic-trending-up-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trending-up-3 {
+  background: url(ic-trending-up-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trending-up {
+  background: url(ic-trending-up(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-triangle-off {
+  background: url(ic-triangle-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-triangle-square-circle {
+  background: url(ic-triangle-square-circle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-triangle {
+  background: url(ic-triangle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trident {
+  background: url(ic-trident(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-trophy {
+  background: url(ic-trophy(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-truck-delivery {
+  background: url(ic-truck-delivery(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-truck-off {
+  background: url(ic-truck-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-truck-return {
+  background: url(ic-truck-return(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-truck {
+  background: url(ic-truck(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-typography {
+  background: url(ic-typography(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-umbrella {
+  background: url(ic-umbrella(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-underline {
+  background: url(ic-underline(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-unlink {
+  background: url(ic-unlink(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-upload {
+  background: url(ic-upload(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-urgent {
+  background: url(ic-urgent(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user-check {
+  background: url(ic-user-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user-exclamation {
+  background: url(ic-user-exclamation(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user-minus {
+  background: url(ic-user-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user-off {
+  background: url(ic-user-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user-plus {
+  background: url(ic-user-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user-x {
+  background: url(ic-user-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-user {
+  background: url(ic-user(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-users {
+  background: url(ic-users(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-vaccine {
+  background: url(ic-vaccine(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-variable {
+  background: url(ic-variable(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-vector-beizer-2 {
+  background: url(ic-vector-beizer-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-vector-bezier {
+  background: url(ic-vector-bezier(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-vector-triangle {
+  background: url(ic-vector-triangle(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-vector {
+  background: url(ic-vector(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-venus {
+  background: url(ic-venus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-versions {
+  background: url(ic-versions(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-video-minus {
+  background: url(ic-video-minus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-video-off {
+  background: url(ic-video-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-video-plus {
+  background: url(ic-video-plus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-video {
+  background: url(ic-video(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-view-360 {
+  background: url(ic-view-360(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-viewfinder {
+  background: url(ic-viewfinder(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-viewport-narrow {
+  background: url(ic-viewport-narrow(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-viewport-wide {
+  background: url(ic-viewport-wide(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-virus-off {
+  background: url(ic-virus-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-virus-search {
+  background: url(ic-virus-search(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-virus {
+  background: url(ic-virus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-vocabulary {
+  background: url(ic-vocabulary(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-volume-2 {
+  background: url(ic-volume-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-volume-3 {
+  background: url(ic-volume-3(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-volume {
+  background: url(ic-volume(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-walk {
+  background: url(ic-walk(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wallet {
+  background: url(ic-wallet(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wand {
+  background: url(ic-wand(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wave-saw-tool {
+  background: url(ic-wave-saw-tool(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wave-sine {
+  background: url(ic-wave-sine(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wave-square {
+  background: url(ic-wave-square(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wifi-0 {
+  background: url(ic-wifi-0(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wifi-1 {
+  background: url(ic-wifi-1(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wifi-2 {
+  background: url(ic-wifi-2(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wifi-off {
+  background: url(ic-wifi-off(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wifi {
+  background: url(ic-wifi(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wind {
+  background: url(ic-wind(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-windmill {
+  background: url(ic-windmill(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-window {
+  background: url(ic-window(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wiper-wash {
+  background: url(ic-wiper-wash(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wiper {
+  background: url(ic-wiper(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-woman {
+  background: url(ic-woman(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-world-latitude {
+  background: url(ic-world-latitude(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-world-longitude {
+  background: url(ic-world-longitude(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-world {
+  background: url(ic-world(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-wrecking-ball {
+  background: url(ic-wrecking-ball(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-writing-sign {
+  background: url(ic-writing-sign(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-writing {
+  background: url(ic-writing(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-x {
+  background: url(ic-x(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-yin-yang {
+  background: url(ic-yin-yang(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-aquarius {
+  background: url(ic-zodiac-aquarius(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-aries {
+  background: url(ic-zodiac-aries(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-cancer {
+  background: url(ic-zodiac-cancer(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-capricorn {
+  background: url(ic-zodiac-capricorn(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-gemini {
+  background: url(ic-zodiac-gemini(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-leo {
+  background: url(ic-zodiac-leo(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-libra {
+  background: url(ic-zodiac-libra(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-pisces {
+  background: url(ic-zodiac-pisces(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-sagittarius {
+  background: url(ic-zodiac-sagittarius(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-scorpio {
+  background: url(ic-zodiac-scorpio(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-taurus {
+  background: url(ic-zodiac-taurus(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zodiac-virgo {
+  background: url(ic-zodiac-virgo(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zoom-cancel {
+  background: url(ic-zoom-cancel(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zoom-check {
+  background: url(ic-zoom-check(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zoom-in {
+  background: url(ic-zoom-in(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zoom-money {
+  background: url(ic-zoom-money(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zoom-out {
+  background: url(ic-zoom-out(#000)) center / 24px 24px no-repeat;
+}
+
+.ic-zoom-question {
+  background: url(ic-zoom-question(#000)) center / 24px 24px no-repeat;
+}

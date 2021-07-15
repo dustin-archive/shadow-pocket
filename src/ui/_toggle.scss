@@ -1,0 +1,24 @@
+
+.ui-toggle {
+  width: 48px + 8px;
+  padding: 4px;
+  border-radius: 12px;
+  background: var(--dark-200, red);
+  transition: background-color 200ms;
+}
+
+.ui-toggle > div {
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background: #fff;
+  transition: transform 200ms;
+}
+
+.ui-toggle.-active {
+  background: var(--primary, red);
+}
+
+.ui-toggle.-active > div {
+  transform: translate(48px - 16px);
+}

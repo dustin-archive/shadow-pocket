@@ -1,0 +1,22 @@
+
+.layout-default {
+  height: 100vh;
+}
+
+.layout-default-content {
+  display: grid;
+  grid: 1fr auto / auto;
+  overflow: overlay;
+}
+
+.layout-default-content > div {
+  transition: padding 200ms;
+}
+
+@media (min-width: 1440px + 1px) {
+  .layout-default-content > div {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 36px 0;
+  }
+}

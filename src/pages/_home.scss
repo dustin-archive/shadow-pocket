@@ -1,0 +1,44 @@
+
+// .page-home {}
+
+.page-home-content {
+  display: grid;
+  gap: 24px;
+}
+
+.page-home-advertisement {
+  width: 100%; // kinda silly yeah?
+  height: 144px;
+  border-radius: 6px;
+  background: var(--light-200, red) url('https://via.placeholder.com/1440x144') center;
+}
+
+.page-home-shadow {
+  padding: 24px;
+  color: #fff;
+  background: #000;
+}
+
+/**
+ * Tablet Screens
+ */
+
+@media (min-width: 768px + 1px) {
+
+}
+
+/**
+ * Laptop Screens
+ */
+
+@media (min-width: 1024px + 1px) {
+
+}
+
+/**
+ * Desktop Screens
+ */
+
+@media (min-width: 1440px + 1px) {
+
+}

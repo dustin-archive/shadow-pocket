@@ -1,0 +1,174 @@
+
+$icon-chevron-down: ic-chevron-down(#fff);
+$icon-code-plus: ic-code-plus(#fff);
+$icon-x: ic-x(#fff);
+
+/**
+ *
+ * Component Panel
+ *
+ */
+
+.component-panel {
+  position: fixed;
+  height: 36px;
+  border-radius: 12px;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  background: var(--dark-500, red);
+  user-select: none;
+  transition: height 200ms;
+}
+
+.component-panel.-active {
+  height: var(--height);
+}
+
+/**
+ *
+ * Component Panel Titlebar
+ *
+ */
+
+.component-panel-titlebar {
+  display: flex;
+  place-content: space-between;
+  background: var(--dark-600);
+}
+
+.component-panel-titlebar > h1 {
+  font: 12px/36px var(--font-inter);
+}
+
+.component-panel-titlebar > button,
+.component-panel-titlebar > div {
+  padding: 18px;
+}
+
+.component-panel-titlebar > div {
+  background: url($icon-code-plus) center / 24px no-repeat;
+}
+
+.component-panel-titlebar > button {
+  background: url($icon-x) center / 24px no-repeat;
+}
+
+/**
+ *
+ * Component Panel Content
+ *
+ */
+
+.component-panel-content {
+  display: grid;
+  gap: 24px;
+  padding: 12px 24px 24px;
+  opacity: 0;
+  transition: opacity 200ms;
+}
+
+.component-panel-content.-active {
+  opacity: 1;
+}
+
+/**
+ *
+ * Component Panel Settings
+ *
+ */
+
+.component-panel-settings {
+  display: grid;
+  gap: 12px;
+}
+
+.component-panel-settings > div {
+  display: grid;
+  grid: auto / 1fr auto;
+  gap: 24px;
+  color: #fff;
+  font: 400 14px/24px var(--font-inter);
+}
+
+.component-panel-settings > hr {
+  height: 2px;
+  background: var(--dark-300, red);
+}
+
+/**
+ *
+ * Component Panel Palette
+ *
+ */
+
+$colors: (
+  'red': $red,
+  'orange': $orange,
+  'yellow': $yellow,
+  'green': $green,
+  'blue': $blue,
+  'purple': $purple,
+  //
+  'light-600': $light-600,
+  'light-500': $light-500,
+  'light-400': $light-400,
+  'light-300': $light-300,
+  'light-200': $light-200,
+  'light-100': $light-100,
+  //
+  'dark-600': $dark-600,
+  'dark-500': $dark-500,
+  'dark-400': $dark-400,
+  'dark-300': $dark-300,
+  'dark-200': $dark-200,
+  'dark-100': $dark-100
+);
+
+// .component-panel-palette {}
+
+.component-panel-palette > div {
+  display: flex;
+  height: 24px;
+}
+
+.component-panel-palette > div > div {
+  flex: 1;
+}
+
+@each $key, $value in $colors {
+  .component-panel-palette > div > .-#{$key} {
+    background: $value;
+  }
+}
+
+/**
+ *
+ * Component Panel inspector
+ *
+ */
+
+.component-panel-inspector {
+  display: grid;
+  gap: 12px;
+}
+
+.component-panel-inspector > div {
+  min-width: 144px * 2;
+  height: 144px * 2;
+  border-radius: 6px;
+  font: 12px/1.25 var(--font-monospace);
+  white-space: pre-wrap;
+  overflow: overlay;
+  background: var(--dark-300, red);
+}
+
+.component-panel-inspector > select {
+  appearance: none;
+  height: 36px;
+  padding: 0 12px;
+  border-radius: 6px;
+  outline: none;
+  font: 14px/1 var(--font-inter);
+  background: var(--dark-300, red) url($icon-chevron-down) center right 12px / 24px no-repeat;
+}

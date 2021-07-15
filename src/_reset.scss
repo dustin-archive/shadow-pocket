@@ -1,0 +1,83 @@
+
+/**
+ *
+ * 1. NOTE: (iOS Safari) Enable momentum scrolling on overflow elements
+ * 2. NOTE: (WebKit/Blink) (Non-standard) Scrollbars overlay content
+ * 3. NOTE: (Touch devices) Prevent tap delay
+ *
+ */
+
+::placeholder {
+  color: var(--light-600, red);
+}
+
+::-webkit-scrollbar {
+  width: 18px;
+  height: 18px;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 6px solid transparent;
+  border-radius: 9px;
+  box-shadow: inset 0 0 0 3px var(--primary, red);
+}
+
+*:not(svg *) {
+  position: relative;
+  min-width: 0; // talk about grids or something
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  -webkit-overflow-scrolling: touch; // 1
+
+  &,
+  &::after,
+  &::before {
+    box-sizing: inherit;
+  }
+}
+
+html {
+  overflow: overlay; // 2
+  touch-action: manipulation; // 3
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--dark-200, red);
+  font: 400 1em/1 var(--font-inter, sans-serif);
+  background: var(--light-100, red);
+}
+
+a,
+button {
+  cursor: pointer;
+}
+
+button {
+  background: initial;
+}
+
+// Remove round styling on iOS
+input[type=search] {
+  -webkit-appearance: none;
+}
+
+/**
+ *
+ * NOTE: This sets the maximum page width when using this viewport meta tag.
+ * Mobile devices will downscale from this size.
+ * <meta name="viewport" content="width=device-width,maximum-scale=5">
+ *
+ */
+
+@media (max-width: 425px) {
+  body {
+    width: 425px;
+  }
+}
