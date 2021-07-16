@@ -59,8 +59,7 @@ const flatten = (children, target = []) => {
 
 // Flattening child is bad for static rendering... why?
 const jsx = (type, props, ...children) => {
-  // props ??= {}
-  props = props || {} // node v12 doensn't support ??
+  props ??= {}
 
   // children = flatten(children)
 
