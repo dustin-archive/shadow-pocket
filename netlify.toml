@@ -3,6 +3,7 @@
   command = 'make'
   publish = 'public'
   NODE_VERSION = '16'
+  NPM_VERSION = '7'
 
 [dev]
   command = 'make start'
