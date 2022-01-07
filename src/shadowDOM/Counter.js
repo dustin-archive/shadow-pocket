@@ -1,28 +1,10 @@
 
-import pocket from 'pocket/core'
+import { shadow } from 'pocket'
 import { patch } from 'superfine'
-import once from 'run-once'
 
 import css from './_counter.txt'
 
-const onMounted = once()
-
-/**
- *
- * Future Pocket Functions
- *
- */
-
-const shadowComponent = (ref, context) => {
-  onMounted(() => {
-    const root = ref.vnode.node.attachShadow({ mode: 'closed' })
-    const div = document.createElement('div')
-
-    root.appendChild(div)
-
-    context(init => pocket(init, view => patch(div, view)))
-  })
-}
+const shadowComponent = shadow(patch)
 
 /**
  *

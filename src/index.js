@@ -1,13 +1,13 @@
 
 import { readFileSync } from 'fs'
-import { script, style } from 'pocket/tags/html'
+import { html } from 'supertools'
 
 const styles = process.env.PROD === true
-  ? style(readFileSync('./public/main.css', 'utf8'))
+  ? html.style(readFileSync('./public/main.css', 'utf8'))
   : <link rel='stylesheet' href='/main.css'/>
 
 const scripts = process.env.PROD === true
-  ? script(readFileSync('./public/app.js', 'utf8'))
+  ? html.script(readFileSync('./public/app.js', 'utf8'))
   : <script src='/app.js' defer></script>
 
 const render = data => {

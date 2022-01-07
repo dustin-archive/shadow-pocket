@@ -2,7 +2,7 @@
 import { encode } from './query'
 
 /**
- * @function link
+ * @module link
  * @example
  * link({
  *   to: '/foobar',

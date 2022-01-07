@@ -1,4 +1,4 @@
 
-export { h, text, jsx } from './shim'
-export { default as link } from './router/link'
-export { default as pocket } from './pocket'
+export { default as pocket } from './src/pocket'
+export { encode, decode, link, router } from './src/router'
+export { once, shadow } from './src/shadow'

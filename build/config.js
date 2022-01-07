@@ -10,7 +10,7 @@ const common = {
   write: false,
 
   // - - - JSX - - -
-  inject: ['./src/modules/pocket/shim.js'],
+  inject: ['./src/modules/supertools/src/jsx-shim.js'],
   jsxFactory: 'jsx',
   loader: {
     '.js': 'jsx'

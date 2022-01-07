@@ -1,5 +1,5 @@
 
-import { pocket } from 'pocket/index'
+import { pocket, router } from 'pocket'
 import { patch } from 'superfine'
 
 import * as common from 'stores/common'
@@ -16,7 +16,7 @@ import Missing from 'pages/Missing'
  */
 
 const node = document.getElementById('app')
-const app = init => pocket(init, view => patch(node, view))
+const app = foo => router(foo, bar => pocket(bar, view => patch(node, view)))
 
 export const { getState, dispatch } = app({
   state: {

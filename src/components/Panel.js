@@ -1,15 +1,14 @@
 
 import cc from 'classcat'
 
+import { once } from 'pocket'
 import { getState, dispatch } from 'app'
+
 import * as $common from 'stores/common'
 import * as $panel from 'stores/panel'
 
 import css from 'modules/css-concat'
-import once from 'modules/run-once'
-
 import Inspector from 'components/Inspector'
-
 import Toggle from 'ui/Toggle'
 
 const onMounted = once()
